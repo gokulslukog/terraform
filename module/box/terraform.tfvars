@@ -1,0 +1,1 @@
+master_host = "${module.network.master_host}"
